@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  border: 0;
+}
+
+#logo {
+  background-color: #222f3f;
+  margin: 0%;
+}
+
+#logo img {
+  width: 7%;
+  padding-left: 3%;
+  margin-bottom: 0.5%;
+}
+
+.lista {
+  background-color: #374658;
+  display: inline-block;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0%;
+  list-style-type: none;
+  width: 97.5%;
+  padding-left: 2.5%;
+}
+.lista li {
+  display: inline-block;
+  padding-inline: 10px;
+  text-align: left;
+}
+
+main {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#shop {
+  text-align: center;
+  background-color: #f56600;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 3%;
+}
+
+#banner {
+  background-image: url(../images/bg-image.png);
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 200px;
+  line-height: 90px;
+  margin-bottom: 35px;
+}
+
+#section p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.shop {
+  color: #1b6b6f;
+  font-weight: 700;
+  font-size: small;
+}
+
+#section {
+  text-align: left;
+  padding-left: 3%;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+#image img {
+  width: 300px;
+  height: 350px;
+  padding: 1.5%;
+  object-fit: cover;
+  border-radius: 8%;
+}
+
+#vr img {
+  width: 100%;
+  margin-top: 3%;
+}
+
+#glasses img {
+  width: 100%;
+  margin-top: 3%;
+}
+
+#cheer p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.audio {
+  color: #1b6b6f;
+  font-weight: 700;
+  font-size: x-small;
+}
+
+#game p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.shopgaming {
+  color: #1b6b6f;
+  font-weight: 700;
+  font-size: x-small;
+}
+
+#back {
+  background-color: #374658;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  line-height: 30px;
+}
+
+#logo2 {
+  background-color: #222f3f;
+  margin: 0%;
+  text-align: center;
+  height: 150px;
+  position: relative;
+}
+
+#logo2 img {
+  width: 10%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
